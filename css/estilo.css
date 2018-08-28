@@ -1,0 +1,16 @@
+header {
+	background: url(../img/003.jpg);
+	height: 200px;
+	padding-top: 80px;
+}
+
+main{
+	background:  #85B9EF;
+	padding-top: 15px;
+	margin: 5px;
+}
+
+.resaltar:hover{
+	box-shadow:5px 5px 30px #333;
+	transition:.150s;
+}
